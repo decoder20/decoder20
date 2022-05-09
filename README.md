@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @decoder20
 - 👀 I’m interested in machine learning and software devt
 - 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on software devt 
+- 💞️ I’m looking to collaborate on software devt and machine learning. 
 - 📫 How to reach me ...whatsapp +233209435989. Sawudu15@gmail.com 
 
 <!---
